@@ -2,24 +2,36 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/iampavangandhi](https://www.linkedin.com/in/sean-donovan-2b907a241/))
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/sensei.sean_/)
+[![GitHub Sean Donovan](https://img.shields.io/github/followers/INTSEAN?label=follow&style=social)](https://github.com/INTSEAN)
+### Glad to see you here! &nbsp;
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 👋 String myName = "SEAN DONOVAN" 👱🏼‍♂️
-- 🌱 I'm passionate about Software Engineering with the aim of developing algorithms to improve food security.
-- 🤓 I’m currently doing personal projects in Java & Python.
-- 💞️ I teach 20+ kids Python in Philadelphia.
-- 📫 Business Contact: donovans064@gmail.com
+```javascript
+const Sean = {
+  pronouns: "he" | "him",
+  code stack: [Javascript, Python, Java, C, C++, Flask, HTML, CSS],
+  interests: ["scalable systems", "big data systems", "algorithm design"],
+  techCommunities: {
+                        Code instructor: "Fife Academy",
+                        Social Media Manager: "Netter Center",
+                        Peer mentor: "Equity College Counselling",
+                        📫 Business Contact: donovans064@gmail.com
+                      },
+  challenge: "💞️ I teach 20+ kids Python in Philadelphia",
+  passion: "🌱 I aim to develop algorithms to improve food security."
+}
+```
 
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/donovans064" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INTSEAN&hide_progress=true)
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INTSEAN&hide_progress=true)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect with each other! </b> Just say <b>👋🏽 hi and I'll be happy to hear from you!</b> :)</em>
 
 <!---
 INTSEAN/INTSEAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
