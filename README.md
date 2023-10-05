@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @INTSEAN
-- My name is Sean Donovan
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C, CSS and Html
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- Email: donovans064@gmail.com
+- 👋 Hello world, String myName = "SEAN DONOVAN" 👱🏼‍♂️
+- 🌱 I'm passionate about Software Engineering with the aim of developing algorithms to improve food security.
+- 🤓 I’m currently doing personal projects in Java & Python.
+- 💞️ I teach 20+ kids Python in Philadelphia.
+- 📫 Contact: donovans064@gmail.com
 
 <!---
 INTSEAN/INTSEAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
