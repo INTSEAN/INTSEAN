@@ -1,6 +1,6 @@
 ## Hello there 👋, I'm [Sean!](https://github.com/INTSEAN/)
 
-<p><em>Computer Science Enginner at <a href="http://www.unb.br">University of Pennsylvania</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Coding Instructor at <a href="https://www.thoughtworks.com">Fife Stem Academy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Computer Science Enginner at <a href="http://www.upenn.edu">University of Pennsylvania</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Coding Instructor at <a href="https://fife.cis.upenn.edu/">Fife Stem Academy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
@@ -23,8 +23,8 @@ const Sean = {
                         Peer mentor: "Equity College Counselling",
                         📫 Business Contact: donovans064@gmail.com
                       },
-  challenge: "💞️ I teach 20+ kids Python in Philadelphia",
-  passion: "🌱 I aim to develop algorithms to improve food security."
+  passion: "💞️ I teach 20+ kids Python in Philadelphia",
+  challenge: "🌱 I aim to develop algorithms to improve food security."
 }
 ```
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
