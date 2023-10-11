@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/iampavangandhi](https://www.linkedin.com/in/sean-donovan-2b907a241/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/iampavangandhi](https://www.linkedin.com/in/seandonovan-upenn/))
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/sensei.sean_/)
 [![GitHub Sean Donovan](https://img.shields.io/github/followers/INTSEAN?label=follow&style=social)](https://github.com/INTSEAN)
 ### Glad to see you here! &nbsp;
