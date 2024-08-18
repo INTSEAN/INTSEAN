@@ -15,7 +15,7 @@
 ```javascript
 const Sean = {
   pronouns: "he" | "him",
-  code_stack: [Java, Python, JavaScript, React, HTML/CSS,  SQL, SQLite, C, OCaml, Git]
+  code_stack: [Java, Python, JavaScript, React, HTML/CSS,  SQL, SQLite, C, OCaml, Git],
   tech_experience: {
                         Python Coding instructor: "Fife STEM Academy",
                         BlockChain Analyst: "Webacy",
