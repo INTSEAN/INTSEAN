@@ -1,6 +1,6 @@
 ## Hello there 👋, I'm [Sean!](https://github.com/INTSEAN/)
 
-<p><em>Computer Science Enginner at <a href="http://www.upenn.edu">University of Pennsylvania</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Coding Instructor at <a href="https://fife.cis.upenn.edu/">Fife Stem Academy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Computer Science Student at <a href="http://www.upenn.edu">University of Pennsylvania</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Tech Ed Python Coding Instructor at <a href="https://fife.cis.upenn.edu/">Fife Stem Academy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
