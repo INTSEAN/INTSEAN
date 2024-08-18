@@ -15,15 +15,15 @@
 ```javascript
 const Sean = {
   pronouns: "he" | "him",
-  code stack: [Javascript, Python, Java, C, C++, Flask, HTML, CSS],
-  interests: ["scalable systems", "big data systems", "algorithm design"],
+  code stack: [Java, Python, JavaScript, React, HTML/CSS,  SQL, SQLite, C, OCaml, Git],
+  interests: ["software engineering", "full stack development", "artificial intelligence"],
   techCommunities: {
-                        Code instructor: "Fife Academy",
-                        Social Media Manager: "Netter Center",
-                        Peer mentor: "Equity College Counselling",
+                        Python Coding instructor: "Fife STEM Academy",
+                        BlockChain Analyst: "Webacy",
+                        Ex-Intern: "Kazi Plus.com",
                         📫 Business Contact: donovans064@gmail.com
                       },
-  passion: "💞️ I teach 20+ kids Python in Philadelphia",
+  passion: "💞️ Inspiring the younger generation of software engineers to dream",
   challenge: "🌱 I aim to develop algorithms to improve food security."
 }
 ```
