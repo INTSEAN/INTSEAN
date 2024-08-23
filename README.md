@@ -16,12 +16,12 @@
 const Sean = {
   pronouns: "he" | "him",
   code_stack: [Java, Python, JavaScript, React, HTML/CSS,  SQL, SQLite, C, OCaml, Git],
-                              tech_experience: {
-                                        Python Coding instructor: "Fife STEM Academy",
-                                        BlockChain Analyst: "Webacy",
-                                        Ex-Intern: "Kazi Plus.com",
-                                        📫 Business Contact: donovans064@gmail.com
-                                      },
+  tech_experience: {
+      Python Coding instructor: "Fife STEM Academy",
+      BlockChain Analyst: "Webacy",
+      Ex-Intern: "Kazi Plus.com",
+      📫 Business Contact: donovans064@gmail.com
+  },
 
   passion: "💞️ Inspiring the younger generation of software engineers to dream",
   interests: ["software engineering", "full stack development", "artificial intelligence"],
