@@ -25,7 +25,6 @@ const Sean = {
 
   passion: "💞️ Inspiring the younger generation of software engineers to dream",
   interests: ["software engineering", "full stack development", "artificial intelligence"],
-  challenge: "🌱 I aim to develop algorithms to improve food security."
 }
 ```
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
