@@ -18,8 +18,8 @@ const Sean = {
   code_stack: [Java, Python, JavaScript, React, HTML/CSS,  SQL, SQLite, C, OCaml, Git],
   tech_experience: {
       Python Coding instructor: "Fife STEM Academy",
-      BlockChain Analyst: "Webacy",
-      Ex-Intern: "Kazi Plus.com",
+      Engineer: "Penn Engineering",
+      Ex-Intern: "Slack",
       📫 Business Contact: donovans064@gmail.com
   },
 
