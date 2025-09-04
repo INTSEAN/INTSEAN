@@ -8,7 +8,7 @@
 [![GitHub Sean Donovan](https://img.shields.io/github/followers/INTSEAN?label=follow&style=social)](https://github.com/INTSEAN)
 ### Glad to see you here! &nbsp;
 <!-- git stat-->
-<h3 align="center">🌱 Github Status</h3>
+<h3 align="center">🌱 Github Stats</h3>
 <br>
 <div align="center">
   <img width="398" src="https://github-readme-stats.vercel.app/api?username=INTSEAN&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
