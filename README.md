@@ -1,5 +1,4 @@
 ## Hello there 👋, I'm [Sean!](https://github.com/INTSEAN/)
-
 <p><em>Computer Science Student at <a href="http://www.upenn.edu">University of Pennsylvania</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Tech Ed Python Coding Instructor at <a href="https://fife.cis.upenn.edu/">Fife Stem Academy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -27,17 +26,17 @@ const Sean = {
   interests: ["software engineering", "full stack development", "artificial intelligence"],
 }
 ```
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 Like My Work?
-
+<img align="right" alt="coding-gif" height="250" width="375" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 
 <a href="https://www.buymeacoffee.com/donovans064" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INTSEAN&hide_progress=true)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect with each other! </b> Just say <b>👋🏽 hi and I'll be happy to hear from you!</b> :)</em>
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /><em><b>Let's connect with each other! </b> Just say <b>👋🏽 hi and I'll be happy to hear from you!</b> :)</em>
 
 <!---
 INTSEAN/INTSEAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
